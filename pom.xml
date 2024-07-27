@@ -116,7 +116,7 @@
 		<webjars-jslint.version>20140708-394bf29</webjars-jslint.version>
 		<webjars-json2.version>20140204</webjars-json2.version>
 		<webjars-less.version>1.3.3</webjars-less.version>
-		<webjars-locator.version>0.40</webjars-locator.version>
+		<webjars-locator.version>0.52</webjars-locator.version>
 
 		<!-- Maven plugins -->
 		<buildnumber-maven-plugin.version>1.4</buildnumber-maven-plugin.version>
