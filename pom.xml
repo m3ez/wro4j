@@ -94,7 +94,7 @@
 		<guava.version>30.0-android</guava.version>
 		<jsp-api.version>2.3.3</jsp-api.version>
 		<less4j.version>1.17.2</less4j.version>
-		<maven.version>3.6.3</maven.version>
+		<maven.version>3.9.9</maven.version>
 		<maven-plugin-testing-harness.version>3.3.0</maven-plugin-testing-harness.version>
 		<mockito.version>3.6.0</mockito.version>
 		<jruby.version>9.2.13.0</jruby.version>
