@@ -94,16 +94,16 @@
 		<guava.version>30.0-android</guava.version>
 		<jsp-api.version>2.3.3</jsp-api.version>
 		<less4j.version>1.17.2</less4j.version>
-		<maven.version>3.6.3</maven.version>
+		<maven.version>3.9.9</maven.version>
 		<maven-plugin-testing-harness.version>3.3.0</maven-plugin-testing-harness.version>
-		<mockito.version>3.6.0</mockito.version>
+		<mockito.version>3.12.4</mockito.version>
 		<jruby.version>9.2.13.0</jruby.version>
 		<junit.version>4.13.1</junit.version>
 		<plexus-build-api.version>0.0.7</plexus-build-api.version>
 		<rhino.version>1.7.13</rhino.version>
 		<sass-java-gems.version>3.4.20.0</sass-java-gems.version>
 		<servlet-api.version>4.0.1</servlet-api.version>
-		<slf4j.version>1.7.30</slf4j.version>
+		<slf4j.version>1.7.36</slf4j.version>
 		<spring.version>5.3.1</spring.version>
 		<webjars-coffee-script.version>1.11.0</webjars-coffee-script.version>
 		<webjars-domelementtype.version>2.0.1</webjars-domelementtype.version>
