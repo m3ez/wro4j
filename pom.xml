@@ -103,7 +103,7 @@
 		<rhino.version>1.7.13</rhino.version>
 		<sass-java-gems.version>3.4.20.0</sass-java-gems.version>
 		<servlet-api.version>4.0.1</servlet-api.version>
-		<slf4j.version>1.7.30</slf4j.version>
+		<slf4j.version>1.7.36</slf4j.version>
 		<spring.version>5.3.1</spring.version>
 		<webjars-coffee-script.version>1.11.0</webjars-coffee-script.version>
 		<webjars-domelementtype.version>2.0.1</webjars-domelementtype.version>
